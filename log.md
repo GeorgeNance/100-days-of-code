@@ -20,3 +20,14 @@
 **Link(s) to work**
 
 *Nothing yet* 🙂
+
+### Day 3: May 3, Sunday
+
+**Today's Progress**:  I spent a majority of my time working on some small animations using Anime.css and tailwind.
+
+**Thoughts** Anime.css is neat for quick animations, but if you want to do any sort of complex animations, it is better to write it yourself.
+
+
+**Link(s) to work**
+
+![](/images/day3.gif)
