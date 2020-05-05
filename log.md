@@ -31,3 +31,15 @@
 **Link(s) to work**
 
 ![](/images/day3.gif)
+
+
+### Day 4: May 4, Monday
+
+**Today's Progress**:  Today I got to work on my personal website/blog. I worked on formatting markdown files to look like a webpage.
+
+**Thoughts** Markdown is awesome! I need to write more. I am excited to work with MDX. 
+
+
+**Link(s) to work**
+
+![](/images/day4.png)
