@@ -43,3 +43,11 @@
 **Link(s) to work**
 
 ![](/images/day4.png)
+
+
+
+### Day 5: May 5, Tuesday 🌮
+
+**Today's Progress**:  Kept working on the UI on my personal site. I focused on fonts and spacing.
+
+**Thoughts** Nothing for now.
